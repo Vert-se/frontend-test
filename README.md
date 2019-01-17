@@ -1,6 +1,6 @@
 # Teste Prático
 
-O objetivo do teste é construir um pequeno dashboard contendo 2 componentes gráficos à partir de uma API disponibilizada, e consumir um datastream para atualiza-los periodicamente
+O objetivo do teste é construir um pequeno dashboard contendo 2 componentes gráficos a partir de uma API disponibilizada, e consumir um datastream para atualiza-los periodicamente
 
 # Passos
 
@@ -10,7 +10,7 @@ O objetivo do teste é construir um pequeno dashboard contendo 2 componentes gr�
 
   - api: https://api.setters.co/dashboard-sample-payload/
 
-3 - Numa página html, utilize a estrutura do payload para renderizar os componentes gráficos (charts) recebidos da forma que achar mais prudente (à partir de sua própria interpretação sobre os specs listados no payload).
+3 - Numa página html, utilize a estrutura do payload para renderizar os componentes gráficos (charts) recebidos da forma que achar mais prudente (a partir de sua própria interpretação sobre os specs listados no payload).
 
 4 - Abasteça os charts com seus respectivos dados consumindo os endpoints `dataSource` de cada gráfico, encontrados no payload da etapa 2.
 
@@ -33,7 +33,7 @@ Obs: Em ambas estratégias, é esperado que o app trate a atualização de cada 
 O objetivo deste teste é avaliar:
  - qualidade e organização do código apresentado
  - conhecimento sobre APIs e programação assíncrona
- - capacidade em interpretar regras de configuração à partir de um documento JSON
+ - capacidade em interpretar regras de configuração por um documento JSON
  - familiaridade com data vizualizaition e manipulação de componentes gráficos
 
 # Recomentações
