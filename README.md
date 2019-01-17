@@ -34,7 +34,7 @@ O objetivo deste teste é avaliar:
  - qualidade e organização do código apresentado
  - conhecimento sobre APIs e programação assíncrona
  - capacidade em interpretar regras de configuração por um documento JSON
- - familiaridade com data vizualizaition e manipulação de componentes gráficos
+ - familiaridade com data vizualization e manipulação de componentes gráficos
 
 # Recomendações
 Você pode utilizar a biblioteca de sua preferência para a geração dos charts.
